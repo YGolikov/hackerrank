@@ -1,0 +1,18 @@
+Hackerrank medium tasks solved:<br>
+
+* https://www.hackerrank.com/challenges/queens-attack-2 [java, haskell]
+* https://www.hackerrank.com/challenges/non-divisible-subset [java, haskell]
+* https://www.hackerrank.com/challenges/queue-using-two-stacks [java, haskell]
+* https://www.hackerrank.com/challenges/tree-huffman-decoding [java]
+* https://www.hackerrank.com/challenges/sparse-arrays [java]
+* https://www.hackerrank.com/challenges/pairs [haskell]
+* https://www.hackerrank.com/challenges/3d-surface-area [haskell]
+* https://www.hackerrank.com/challenges/climbing-the-leaderboard [haskell]
+* https://www.hackerrank.com/challenges/coin-change [java]
+* https://www.hackerrank.com/challenges/the-power-sum [haskell, java]
+* https://www.hackerrank.com/challenges/die-hard-3 [haskell]
+* https://www.hackerrank.com/challenges/special-multiple [haskell]
+* https://www.hackerrank.com/challenges/summing-the-n-series [haskell]
+* https://www.hackerrank.com/challenges/diwali-lights [haskell]
+* https://www.hackerrank.com/challenges/the-time-in-words [haskell]
+* https://www.hackerrank.com/challenges/java-stack [java]

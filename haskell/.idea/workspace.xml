@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4da797d6-6919-4c06-a55d-9beb70cfb290" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeLog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Setup.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Main.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haskell.cabal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/haskell.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClimbingTheLeaderboard.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DieHard3.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiwaliLights.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Is3dSurfaceArea.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NonDivisibleSubset.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pairs.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueensAttack2.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueUsingTwoStacks.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpecialMultiple.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SummingTheNSeries.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThePowerSum.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheTimeInWords.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack.yaml.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Spec.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/main/java/coinchange/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/main/java/javastack/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/main/java/nondivisiblesubset/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/main/java/queensattack2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/main/java/queueusingtwostacks/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/main/java/sparsearrays/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/main/java/thepowersum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/main/java/treehuffmandecoding/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D6z5rSt7vRXit41N4kxe9vAkf8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4da797d6-6919-4c06-a55d-9beb70cfb290" name="Changes" comment="" />
+      <created>1660034143161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660034143161</updated>
+      <workItem from="1660034145076" duration="227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
